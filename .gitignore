@@ -1,0 +1,7 @@
+/.env
+/data
+/output
+/Requirements.md
+/requirements.txt
+/results.md
+/__pycache__
