@@ -2,6 +2,8 @@
 
 This project implements the requirements for analyzing and extrapolating nightly rental price data for multiple properties.
 
+[**Online DEMO**](https://nightlyprices-gwesa4temvgrsxvvsmhh6j.streamlit.app/)
+
 ## Overview
 
 The implementation handles two main tasks:
